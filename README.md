@@ -1,5 +1,6 @@
 # E04a-Sprites
 This is an exercise to start playing with sprites and physics in Godot.
+Sunny Patel, this project completes assignment 4A--Sprites. All the following steps have been followed and I have understood the material thoroughly.
 
 First, Fork and Clone this repository. Then open the Godot Project Manager and press Import. Navigate to the E04a-Sprites folder that GitHub Desktop created on your computer, and select the godot.project file. Press the Import & Edit button.
 
